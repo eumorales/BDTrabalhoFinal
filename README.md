@@ -1,5 +1,5 @@
-# BDTrabalhoFinal
-Repositório do trabalho final de banco de dados.
+# 🚩 Trabalho final de banco de dados
+https://github.com/eumorales/BDTrabalhoFinal
 
 ## 📚 Vocabulário de Banco de Dados
 
